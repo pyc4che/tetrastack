@@ -8,7 +8,7 @@
 
 # Launch
 ------------
-Windows (![.NET](https://dotnet.microsoft.com/en-us/download) required):
+Windows ([.NET](https://dotnet.microsoft.com/en-us/download) required):
 1. You have to open folder build/windows/;
 2. Then double-click on `MAT.exe` file. And you're done;
 
